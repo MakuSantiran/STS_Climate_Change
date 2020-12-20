@@ -51,10 +51,10 @@ var test = [
 	"ENSO"], // group
 	
 	["Are indicative of ENSO warm phase condition",
-	"SST anomalies >= 0.5C" , // answer
+	"SST anomalies bigger than 0.5C" , // answer
 	"ENSO"], // group
 	["Are indicative of ENSO cool phase condition",
-	"SST anomalies <= 0.5C" , // answer
+	"SST anomalies smaller than 0.5C" , // answer
 	"ENSO"], // group
 	["Nino 3.4 SST anomalies are aeveraged over 3 months and its called...?",
 	"Oceanic Nino Index" , // answer
